@@ -4,7 +4,6 @@
 /**
  * binary_tree_delete - deletes a binary tree node 
  * @tree: tree to free
- *
  * Return: null
  */
 void binary_tree_delete(binary_tree_t *tree)
