@@ -4,8 +4,7 @@
 /**
  * binary_tree_height - measure the highest
  * @tree: tree
- * @func: function
- * Return: nothing to return
+ * Return: the highest
  */
 size_t binary_tree_height(const binary_tree_t *tree)
 {
