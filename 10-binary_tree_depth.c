@@ -4,8 +4,7 @@
 /**
  * binary_tree_depth - check the depth
  * @tree: tree
- * @func: function
- * Return: nothing to return
+ * Return: 0
  */
 size_t binary_tree_depth(const binary_tree_t *tree)
 {
